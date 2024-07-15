@@ -1,0 +1,13 @@
+{
+  "chipFamily": "ESP8266",
+  "ota": {
+    "path": "endo-lighting-controller-esp8266/endo-lighting-controller-esp8266.ota.bin",
+    "md5": "8e907d0ab468e76da742f9104db1ff79"
+  },
+  "parts": [
+    {
+      "path": "endo-lighting-controller-esp8266/endo-lighting-controller-esp8266.factory.bin",
+      "offset": 0
+    }
+  ]
+}
